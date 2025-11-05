@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deependra-Das
 - 👀 I’m interested in creating fun games for people to enjoy.
-- 🌱 I’m currently learning Game Development at Outscal.
+- 🌱 I’m a Game Developer with 1+ year of experience working with Unity, C#, C++ & SFML.
 - 💞️ I’m looking to collaborate on Unity Game Projects.
 - 📫 Shoot me an email @ iamdeep75@gmail.com for any queries.
 - 😄 Pronouns: He/Him
